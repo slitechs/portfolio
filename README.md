@@ -20,6 +20,3 @@ Tools: Python
 
 [BrickBreaker Game](https://github.com/slitechs/BrickBreaker)\
 Tools: Java
-
-[Landmarks iOS App](https://github.com/slitechs/landmarks-app)\
-Tools: Swift
